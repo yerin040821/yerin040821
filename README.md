@@ -1,7 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=E6E6FA&height=300&section=header&text=Good%20to%20see%20you%20🤗&fontColor=888888&animation=fadeIn)
 
-### 🚀 Senior CS Student @ Chosun University
-"사용자 경험(UX)을 기술로 연결하는 프론트엔드 개발자 지망생입니다."
+# 👋 Hello, I'm Yerin Jeong!
+
+<br>
+
+## 🔍 About Me
+* 📍 **Location**: Gwangju, South Korea
+* 🎓 **Education**: Chosun University, Computer Science
+* 💻 **Primary Focus**: Embedded Systems, AIoT
+* 🛠 **Sub-Skill**: Flutter-based Admin Dashboard Development
+* ⚡ **Keywords**: MCU, Sensor Fusion, RTOS, Low-power Design
 
 <br>
 <br>
@@ -11,13 +19,20 @@
 ### Embedded & IoT
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Microchip](https://img.shields.io/badge/MCU_Programming-0081C6?style=flat-square&logo=microchip&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 📊 Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
@@ -25,9 +40,9 @@
 <br>
 
 ## 📊 GitHub Stats
-[![Yerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin040821&show_icons=true&theme=radical)](https://github.com/yerin040821)
+![Yerin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yerin040821&show_icons=true&bg_color=ffffff&title_color=7E57C2&text_color=555555&icon_color=BA68C8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin040821&layout=compact&theme=radical)](https://github.com/yerin040821)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yerin040821&layout=compact&bg_color=ffffff&title_color=7E57C2&text_color=555555)
 
 <br>
 <br>
